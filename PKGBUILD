@@ -4,6 +4,7 @@
 # Maintainer: Truocolo <truocolo@aol.com>
 # Maintainer: Filipe Laíns (FFY00) <lains@archlinux.org>
 
+_py="python"
 _pkg="sphinx"
 _pkgname="${_pkg}-inline-tabs"
 pkgname="${_py}-${_pkgname}"
